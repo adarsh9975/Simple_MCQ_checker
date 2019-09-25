@@ -16,7 +16,7 @@ Saves you time so that you can waste more of it on Netflix :p
 The tool runs on Python 3. To save you the hassel of installing the dependencies it is recommended that you
 use the online [PythonAnywhere online IDE](https://www.pythonanywhere.com). Just create an account and you are good to go.
 
-The tool assumes that the assesment is done using the provided "Assessment_template.xlsx" for questionnaire.  
+**The tool assumes that the assesment is done using the provided "Assessment_template.xlsx" for questionnaire.**  
 You will need to modify the **answer_checker.py** script if you intend to use your custom template.
 
 If you are uncomfortable uploading your files online, you can install python locally and following dependencies:
