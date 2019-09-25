@@ -8,8 +8,8 @@ Saves you time so that you can waste more of it on Netflix :p
   * Virtually no limit on the number of assessments that can be checked.
   * Generates a consolidated result excel file.
   * Fairly commented code.
-  * Easy to modify according to your own needs. (see LICENSE for more info)
-  * Free to use. (see LICENSE for more info)
+  * Easy to modify according to your own needs. (see LICENSE for terms)
+  * Free to use. (see LICENSE for terms)
 
 ## Installing Dependencies
 
