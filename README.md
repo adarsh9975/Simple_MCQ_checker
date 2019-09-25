@@ -34,7 +34,7 @@ If you are running this locally or even on PythonAnywhere, just do the following
     * **Assess_answer.xlsx** containing the correct answers to questions to **the same directory**.  
       All the answer should be edited in column 'A' of Assess_answer.xlsx and can be one of following: 
       * 'a.','b.','c.','d.'   
-      **__Don't forget the dots__** (feel free to modify the code if you need other/more options)  
+      **__Don't forget the dots__** (feel free to modify the code and questionnaire template if you need other/more options)  
       The answer for question 1 should be fed in cell A1 of excel, question 2 cell A2,question 3 cell A3
       and so on.
   * Make sure **no other** .xlsx file is present in the folder. The tool can crash otherwise.
