@@ -1,14 +1,13 @@
-'''#############################################################
-# Author: Adarsh Sinha
-# Project: Simple_MCQ_Checker
-# Python version: 3.x
-# Description: 
-#
-#
-#
-#################################################################'''
-
-
+'''####################################################################
+## Author: Adarsh Sinha                                              ##
+## Date: 25 Sep 2019                                                 ##
+## Project: Simple_MCQ_Checker                                       ##
+## Python version: 3.x                                               ##
+## License: MIT                                                      ##
+## Description: Checks all the assessment questionnaires using the   ##
+##              provided answer key and generates a report in excel  ##
+##              containing Name,ID and score of the candidate.       ##
+#####################################################################'''
 import openpyxl as xl
 import glob
 
@@ -110,16 +109,3 @@ def main():
 
 if __name__== "__main__":
   main()
-
-
-
-
-
-
-
-
-
-
-
-
-
