@@ -1,3 +1,14 @@
+'''#############################################################
+# Author: Adarsh Sinha
+# Project: Simple_MCQ_Checker
+# Python version: 3.x
+# Description: 
+#
+#
+#
+#################################################################'''
+
+
 import openpyxl as xl
 import glob
 
